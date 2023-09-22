@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "What is Python?",
+        "options": ["A type of snake", "A high-level programming language", "A computer hardware", "A data structure"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which symbol is used for comments in Python?",
+        "options": ["//", "/*", "#", "--"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "How do you declare a variable in Python?",
+        "options": ["var x;", "x = 5", "variable x", "$x = 5"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which data type is used to store a sequence of characters in Python?",
+        "options": ["int", "float", "str", "list"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the output of 'print(5 > 2)' in Python?",
+        "options": ["True", "False", "Error", "None"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "How do you create a function in Python?",
+        "options": ["func myFunction()", "function myFunction():", "def myFunction():", "create function myFunction:"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which operator is used for exponentiation in Python?",
+        "options": ["^", "**", "*", "//"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the correct way to write a multiline string in Python?",
+        "options": ["'This is a multiline string'", "\"\"\"This is a multiline string\"\"\"", "''This is a multiline string''", "\"This is a\nmultiline string\""],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "How do you check the length of a list in Python?",
+        "options": ["size(myList)", "count(myList)", "length(myList)", "len(myList)"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "What is the Python keyword used to define a conditional statement?",
+        "options": ["if", "when", "case", "cond"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which data structure in Python stores elements in key-value pairs?",
+        "options": ["list", "set", "tuple", "dictionary"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "What does the 'range' function in Python return?",
+        "options": ["A list of numbers", "A tuple of numbers", "A dictionary of numbers", "An iterator of numbers"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Which Python library is used for data manipulation and analysis?",
+        "options": ["numpy", "matplotlib", "pandas", "scikit-learn"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the result of '3 + '3' in Python?",
+        "options": ["33", "6", "TypeError", "SyntaxError"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "How do you remove an element from a list in Python?",
+        "options": ["remove(myList, element)", "delete(myList, element)", "pop(myList)", "myList.remove(element)"],
+        "correctOption": 3,
+        "points": 10
+      }
+    ]
+  }
+  

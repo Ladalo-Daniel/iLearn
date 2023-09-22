@@ -1,0 +1,1278 @@
+{
+    "courses": [
+      {
+        "id":"html",
+        "name":"HTML",
+        "question":[
+            {
+                "question": "What does HTML stand for?",
+                "options": [
+                    "Hyperlink Text Markup Language",
+                    "Hyper Transfer Markup Language",
+                    "Hyper Text Markup Language",
+                    "Hyper Tool Markup Language"
+                ],
+                "correctOption": 2,
+                "points": 10
+            },
+            {
+                "question": "Which HTML element is used to create a hyperlink?",
+                "options": [
+                    "<link>",
+                    "<a>",
+                    "<href>",
+                    "<url>"
+                ],
+                "correctOption": 1,
+                "points": 10
+            },
+            {
+                "question": "Which HTML tag is used to define an ordered (numbered) list?",
+                "options": [
+                    "<ul>",
+                    "<li>",
+                    "<ol>",
+                    "<dl>"
+                ],
+                "correctOption": 2,
+                "points": 10
+            },
+            {
+                "question": "What is the correct HTML element for inserting a line break?",
+                "options": [
+                    "<br>",
+                    "<lb>",
+                    "<break>",
+                    "<newline>"
+                ],
+                "correctOption": 0,
+                "points": 10
+            },
+            {
+                "question": "Which HTML tag is used to define the header for a document or section?",
+                "options": [
+                    "<head>",
+                    "<header>",
+                    "<h1>",
+                    "<title>"
+                ],
+                "correctOption": 2,
+                "points": 10
+            },
+            {
+                "question": "Which HTML attribute is used to specify the URL of the image to be displayed?",
+                "options": [
+                    "src",
+                    "href",
+                    "img",
+                    "link"
+                ],
+                "correctOption": 0,
+                "points": 10
+            },
+            {
+                "question": "What does HTML5 introduce to replace the <div> element for grouping content?",
+                "options": [
+                    "<section>",
+                    "<group>",
+                    "<container>",
+                    "<block>"
+                ],
+                "correctOption": 0,
+                "points": 10
+            },
+            {
+                "question": "Which HTML element is used to define the structure of an HTML document, including headings, paragraphs, and lists?",
+                "options": [
+                    "<body>",
+                    "<article>",
+                    "<main>",
+                    "<section>"
+                ],
+                "correctOption": 0,
+                "points": 10
+            },
+            {
+                "question": "What is the purpose of the HTML <meta> element?",
+                "options": [
+                    "To define metadata about the document",
+                    "To create a new webpage",
+                    "To insert a meta tag",
+                    "To define the document's title"
+                ],
+                "correctOption": 0,
+                "points": 10
+            },
+            {
+                "question": "Which HTML tag is used to create an external JavaScript file?",
+                "options": [
+                    "<script>",
+                    "<js>",
+                    "<javascript>",
+                    "<external>"
+                ],
+                "correctOption": 0,
+                "points": 10
+            },
+            {
+                "question": "What is the correct HTML element for inserting a horizontal rule (line)?",
+                "options": [
+                    "<line>",
+                    "<hr>",
+                    "<rule>",
+                    "<horizontal>"
+                ],
+                "correctOption": 1,
+                "points": 10
+            },
+            {
+                "question": "Which HTML element is used to define a table row?",
+                "options": [
+                    "<table>",
+                    "<row>",
+                    "<tr>",
+                    "<td>"
+                ],
+                "correctOption": 2,
+                "points": 10
+            },
+            {
+                "question": "What does the HTML <iframe> element allow you to do?",
+                "options": [
+                    "Embed another webpage within the current webpage",
+                    "Create an image gallery",
+                    "Insert an audio file",
+                    "Add a video player"
+                ],
+                "correctOption": 0,
+                "points": 10
+            },
+            {
+                "question": "What is the purpose of the HTML <form> element?",
+                "options": [
+                    "To create a list",
+                    "To define a table",
+                    "To create a form for user input",
+                    "To display images"
+                ],
+                "correctOption": 2,
+                "points": 10
+            },
+            {
+                "question": "Which HTML tag is used to define a line or paragraph that is centered on the webpage?",
+                "options": [
+                    "<center>",
+                    "<middle>",
+                    "<middleline>",
+                    "<central>"
+                ],
+                "correctOption": 0,
+                "points": 10
+            }
+        ]
+      },
+
+      {
+        "id": "javascript",
+        "name": "JavaScript",
+        "question": [
+            {
+                "question": "What does JavaScript(JS) stand for?",
+                "options": ["Java Source", "JavaScript", "JustScript", "JavaSyntax"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which keyword is used to declare a variable in JavaScript?",
+                "options": ["var", "int", "variable", "declare"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the correct way to write a comment in JavaScript?",
+                "options": ["//This is a comment", "<!--This is a comment-->", "/*This is a comment*/", "##This is a comment##"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which function is used to display a message in a popup dialog box in JavaScript?",
+                "options": ["alert()", "popup()", "message()", "display()"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "How do you declare a function in JavaScript?",
+                "options": ["function myFunction()", "myFunction = function()", "declare function myFunction()", "func myFunction()"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the result of '2' + 2 in JavaScript?",
+                "options": ["'22'", "4", "22", "NaN"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the correct way to select an HTML element by its ID in JavaScript?",
+                "options": ["#myElement", "$('myElement')", "getElementById('myElement')", ".myElement"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which operator is used to compare two values for equality in JavaScript?",
+                "options": ["==", "===", "=", "!"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "How do you add a comment in a JavaScript object?",
+                "options": ["// This is a comment", "/* This is a comment */", "# This is a comment", "Comment: This is a comment"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which JavaScript method is used to remove the last item from an array?",
+                "options": ["pop()", "removeLast()", "delete()", "splice()"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which built-in object is used for mathematical operations in JavaScript?",
+                "options": ["Math", "Calc", "Numbers", "Calculations"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the purpose of the JavaScript 'setTimeout' function?",
+                "options": ["To set the date and time", "To execute a function after a specified time delay", "To display a message box", "To stop the execution of a script"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which JavaScript method is used to add a new element to the end of an array?",
+                "options": ["append()", "push()", "addElement()", "insertLast()"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What does the 'typeof' operator in JavaScript return for a variable that is not defined?",
+                "options": ["null", "undefined", "string", "NaN"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which JavaScript statement is used to exit a loop early?",
+                "options": ["break", "stop", "exit", "end"],
+                "correctOption": 0,
+                "points": 10
+              }
+        ]
+      },
+      {
+        "id": "css",
+        "name": "CSS",
+        "question": [
+            {
+                "question": "What does CSS stand for?",
+                "options": ["Cascading Style Sheet", "Creative Style Sheet", "Computer Style Sheet", "Colorful Style Sheet"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which CSS property is used to change the text color of an element?",
+                "options": ["font-family", "text-color", "color", "text-style"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the correct CSS syntax for referring to an external style sheet?",
+                "options": ["<style src='styles.css'>", "<link rel='stylesheet' href='styles.css'>", "<css src='styles.css'>", "<include 'styles.css'>"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which CSS property is used to control the spacing between elements?",
+                "options": ["margin", "spacing", "padding", "border-spacing"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "How do you select an element with id 'myElement' in CSS?",
+                "options": ["#myElement", ".myElement", "element.myElement", "element#myElement"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What does the 'box-sizing' CSS property control?",
+                "options": ["The size of text boxes", "The rendering of box elements", "How the width and height of an element are calculated", "The spacing between inline elements"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which CSS property is used to make text bold?",
+                "options": ["font-weight", "text-style", "bold-text", "font-bold"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the purpose of the CSS 'float' property?",
+                "options": ["To control text alignment", "To make an element float above other elements", "To apply a shadow effect", "To change font size"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which CSS property is used to add a background color to an element?",
+                "options": ["background-color", "color", "background", "background-style"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What does the 'z-index' property control in CSS?",
+                "options": ["The depth of an element", "The font size", "The width of an element", "The color of text"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which CSS property is used to change the style of the mouse cursor?",
+                "options": ["cursor", "pointer-style", "mouse-style", "hover-cursor"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the purpose of the CSS 'opacity' property?",
+                "options": ["To control the element's size", "To adjust the element's padding", "To change the element's background", "To control the element's transparency"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "What is the CSS pseudo-class used to select an element when a user hovers over it?",
+                "options": [":hover", ":active", ":focus", ":hovered"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the purpose of the CSS 'position' property?",
+                "options": ["To change the font size", "To control the element's width and height", "To set the element's position relative to its parent", "To change the element's color"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which CSS property is used to add shadows to text?",
+                "options": ["text-shadow", "box-shadow", "font-shadow", "shadow-text"],
+                "correctOption": 0,
+                "points": 10
+              }
+        ]
+      },
+      {
+        "id": "react-js",
+        "name": "React",
+        "question": [
+            {
+                "question": "Which is the most popular JavaScript framework?",
+                "options": ["Angular", "React", "Svelte", "Vue"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which company invented React?",
+                "options": ["Google", "Apple", "Netflix", "Facebook"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "What's the fundamental building block of React apps?",
+                "options": ["Components", "Blocks", "Elements", "Effects"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What's the name of the syntax we use to describe the UI in React components?",
+                "options": ["FBJ", "Babel", "JSX", "ES2015"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "How does data flow naturally in React apps?",
+                "options": [
+                  "From parents to children",
+                  "From children to parents",
+                  "Both ways",
+                  "The developers decides"
+                ],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "How to pass data into a child component?",
+                "options": ["State", "Props", "PropTypes", "Parameters"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "When to use derived state?",
+                "options": [
+                  "Whenever the state should not trigger a re-render",
+                  "Whenever the state can be synchronized with an effect",
+                  "Whenever the state should be accessible to all components",
+                  "Whenever the state can be computed from another state variable"
+                ],
+                "correctOption": 3,
+                "points": 30
+              },
+              {
+                "question": "What triggers a UI re-render in React?",
+                "options": [
+                  "Running an effect",
+                  "Passing props",
+                  "Updating state",
+                  "Adding event listeners to DOM elements"
+                ],
+                "correctOption": 2,
+                "points": 20
+              },
+              {
+                "question": "When do we directly \"touch\" the DOM in React?",
+                "options": [
+                  "When we need to listen to an event",
+                  "When we need to change the UI",
+                  "When we need to add styles",
+                  "Almost never"
+                ],
+                "correctOption": 3,
+                "points": 20
+              },
+              {
+                "question": "In what situation do we use a callback to update state?",
+                "options": [
+                  "When updating the state will be slow",
+                  "When the updated state is very data-intensive",
+                  "When the state update should happen faster",
+                  "When the new state depends on the previous state"
+                ],
+                "correctOption": 3,
+                "points": 30
+              },
+              {
+                "question": "If we pass a function to useState, when will that function be called?",
+                "options": [
+                  "On each re-render",
+                  "Each time we update the state",
+                  "Only on the initial render",
+                  "The first time we update the state"
+                ],
+                "correctOption": 2,
+                "points": 30
+              },
+              {
+                "question": "Which hook to use for an API request on the component's initial render?",
+                "options": ["useState", "useEffect", "useRef", "useReducer"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which variables should go into the useEffect dependency array?",
+                "options": [
+                  "Usually none",
+                  "All our state variables",
+                  "All state and props referenced in the effect",
+                  "All variables needed for clean up"
+                ],
+                "correctOption": 2,
+                "points": 30
+              },
+              {
+                "question": "An effect will always run on the initial render.",
+                "options": [
+                  "True",
+                  "It depends on the dependency array",
+                  "False",
+                  "In depends on the code in the effect"
+                ],
+                "correctOption": 0,
+                "points": 30
+              },
+              {
+                "question": "When will an effect run if it doesn't have a dependency array?",
+                "options": [
+                  "Only when the component mounts",
+                  "Only when the component unmounts",
+                  "The first time the component re-renders",
+                  "Each time the component is re-rendered"
+                ],
+                "correctOption": 3,
+                "points": 20
+              }
+        ]
+      },
+      {
+        "id": "python",
+        "name": "Python",
+        "question": [
+            {
+                "question": "What is Python?",
+                "options": ["A type of snake", "A high-level programming language", "A computer hardware", "A data structure"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which symbol is used for comments in Python?",
+                "options": ["//", "/*", "#", "--"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "How do you declare a variable in Python?",
+                "options": ["var x;", "x = 5", "variable x", "$x = 5"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which data type is used to store a sequence of characters in Python?",
+                "options": ["int", "float", "str", "list"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the output of 'print(5 > 2)' in Python?",
+                "options": ["True", "False", "Error", "None"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "How do you create a function in Python?",
+                "options": ["func myFunction()", "function myFunction():", "def myFunction():", "create function myFunction:"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which operator is used for exponentiation in Python?",
+                "options": ["^", "**", "*", "//"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the correct way to write a multiline string in Python?",
+                "options": ["'This is a multiline string'", "\"\"\"This is a multiline string\"\"\"", "''This is a multiline string''", "\"This is a\nmultiline string\""],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "How do you check the length of a list in Python?",
+                "options": ["size(myList)", "count(myList)", "length(myList)", "len(myList)"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "What is the Python keyword used to define a conditional statement?",
+                "options": ["if", "when", "case", "cond"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which data structure in Python stores elements in key-value pairs?",
+                "options": ["list", "set", "tuple", "dictionary"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "What does the 'range' function in Python return?",
+                "options": ["A list of numbers", "A tuple of numbers", "A dictionary of numbers", "An iterator of numbers"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "Which Python library is used for data manipulation and analysis?",
+                "options": ["numpy", "matplotlib", "pandas", "scikit-learn"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the result of '3 + '3' in Python?",
+                "options": ["33", "6", "TypeError", "SyntaxError"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "How do you remove an element from a list in Python?",
+                "options": ["remove(myList, element)", "delete(myList, element)", "pop(myList)", "myList.remove(element)"],
+                "correctOption": 3,
+                "points": 10
+              }
+        ]
+      },
+      {
+        "id": "nodejs",
+        "name": "Node.js",
+        "question": [
+            {
+                "question": "What is Node.js?",
+                "options": ["A database management system", "A front-end JavaScript framework", "A back-end JavaScript runtime", "A cloud computing service"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which programming language is commonly used with Node.js for server-side development?",
+                "options": ["Java", "Python", "JavaScript", "C++"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the core module in Node.js for handling file operations?",
+                "options": ["fs", "file", "io", "stream"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which package manager is commonly used with Node.js to manage dependencies?",
+                "options": ["NPM", "Yarn", "Bower", "Pip"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the purpose of the 'require' function in Node.js?",
+                "options": ["To include external JavaScript files", "To define a new variable", "To install Node.js modules", "To create a web server"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which Node.js module is used for building web servers?",
+                "options": ["http", "webserver", "server", "net"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the event-driven programming paradigm in Node.js based on?",
+                "options": ["Callbacks", "Promises", "Synchronous programming", "Object-oriented programming"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which module in Node.js is used for working with URL strings?",
+                "options": ["url", "web", "link", "uri"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the purpose of the 'process' object in Node.js?",
+                "options": ["To manage file processes", "To handle HTTP requests", "To interact with the operating system", "To create child processes"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which module is commonly used for real-time, bidirectional communication in Node.js?",
+                "options": ["websocket", "http", "tcp", "socket.io"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "What is the purpose of the 'Buffer' class in Node.js?",
+                "options": ["To perform mathematical operations", "To handle file I/O operations", "To work with binary data", "To format strings"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which Node.js module is used for managing child processes?",
+                "options": ["child", "processes", "child_process", "task"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the role of the 'npm' command in Node.js?",
+                "options": ["To run Node.js applications", "To install Node.js", "To manage Node.js packages", "To create a new Node.js project"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which module is used for handling asynchronous operations in a more readable way in Node.js?",
+                "options": ["async", "await", "promise", "callback"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the default port number for HTTP in Node.js?",
+                "options": ["80", "8080", "3000", "5000"],
+                "correctOption": 0,
+                "points": 10
+              }
+        ]
+      },
+      {
+        "id": "computer_science",
+        "name": "Computer Science",
+        "question": [
+            {
+                "question": "What is the binary number system based on?",
+                "options": ["Base 2", "Base 10", "Base 16", "Base 8"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which programming language is known as a 'low-level' programming language?",
+                "options": ["Python", "Java", "C++", "Assembly"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "What is the primary function of an operating system?",
+                "options": ["Running applications", "Managing hardware resources", "Creating graphics", "Browsing the web"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which data structure follows the 'Last In, First Out' (LIFO) principle?",
+                "options": ["Queue", "Stack", "Linked List", "Array"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What does HTTP stand for in web technology?",
+                "options": ["Hyper Transfer Text Protocol", "Hypertext Transfer Protocol", "High-Tech Transfer Protocol", "Hyperlink Text Transmission Protocol"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "In computer science, what does 'CPU' stand for?",
+                "options": ["Central Processing Unit", "Computer Personal Unit", "Control Program Unit", "Central Program Unit"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the primary function of a compiler?",
+                "options": ["Run programs", "Manage memory", "Translate code into machine language", "Display graphical user interfaces"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a program that replicates itself and spreads to other computers or systems?",
+                "options": ["Spyware", "Malware", "Virus", "Firewall"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the time complexity of a binary search algorithm?",
+                "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which of the following is not a programming paradigm?",
+                "options": ["Object-Oriented Programming", "Functional Programming", "Relational Programming", "Imperative Programming"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a network of interconnected computers that share resources and information?",
+                "options": ["Intranet", "Internet", "Ethernet", "Extranet"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What does SQL stand for in database management?",
+                "options": ["Structured Query Language", "Sequential Query Language", "Simple Query Language", "System Query Language"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which data structure is used to represent hierarchical relationships in computer science?",
+                "options": ["Stack", "Queue", "Tree", "Graph"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a small piece of code that performs a specific task and can be reused in various parts of a program?",
+                "options": ["Function", "Procedure", "Method", "Algorithm"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the fundamental unit of information in computing?",
+                "options": ["Byte", "Bit", "Nibble", "Kilobyte"],
+                "correctOption": 1,
+                "points": 10
+              }
+        ]
+      },
+      {
+        "id": "medicine_and_surgery",
+        "name": "Medicine and Surgery",
+        "question": [
+            {
+                "question": "What is the largest organ in the human body?",
+                "options": ["Heart", "Brain", "Liver", "Skin"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "Which gas do humans primarily exhale during respiration?",
+                "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the medical term for the voice box?",
+                "options": ["Larynx", "Esophagus", "Pharynx", "Trachea"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which vitamin is produced by the skin when exposed to sunlight?",
+                "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "What is the main function of the pancreas in the human body?",
+                "options": ["Digestion of food", "Pumping blood", "Filtering waste", "Regulating blood sugar"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "Which part of the eye controls the amount of light entering the eye?",
+                "options": ["Cornea", "Pupil", "Retina", "Iris"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the medical term for high blood pressure?",
+                "options": ["Hypotension", "Hypertension", "Hyperglycemia", "Hyperthyroidism"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which organ produces insulin in the human body?",
+                "options": ["Pancreas", "Liver", "Kidneys", "Heart"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the name of the tube that connects the mouth to the stomach?",
+                "options": ["Esophagus", "Trachea", "Bronchus", "Pharynx"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which disease is caused by a deficiency of vitamin C?",
+                "options": ["Malaria", "Scurvy", "Tuberculosis", "Diabetes"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which type of blood cells are responsible for oxygen transport in the body?",
+                "options": ["Platelets", "White blood cells", "Red blood cells", "Plasma"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the surgical procedure to remove the appendix called?",
+                "options": ["Appendectomy", "Colonoscopy", "Gallbladder removal", "Tonsillectomy"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which hormone is responsible for regulating blood sugar levels?",
+                "options": ["Insulin", "Testosterone", "Estrogen", "Adrenaline"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the medical term for inflammation of the joints?",
+                "options": ["Arthritis", "Bronchitis", "Hepatitis", "Appendicitis"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the largest bone in the human body?",
+                "options": ["Femur", "Tibia", "Radius", "Humerus"],
+                "correctOption": 0,
+                "points": 10
+              }
+        ]
+      },
+      {
+        "id": "english_language",
+        "name": "English Language",
+        "question": [
+            {
+                "question": "What is the term for a word that is the opposite in meaning to another word?",
+                "options": ["Synonym", "Homonym", "Antonym", "Palindrome"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the correct plural form of 'child'?",
+                "options": ["Children", "Childs", "Childes", "Childen"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which part of speech is used to describe a person, place, or thing?",
+                "options": ["Verb", "Adjective", "Adverb", "Noun"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the past tense of the verb 'go'?",
+                "options": ["Went", "Gone", "Goed", "Going"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a group of words that expresses a complete thought and can stand alone as a sentence?",
+                "options": ["Clause", "Phrase", "Fragment", "Sentence"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "Which of the following is a pronoun?",
+                "options": ["Run", "Table", "She", "Quickly"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the opposite of the word 'brave'?",
+                "options": ["Kind", "Cowardly", "Strong", "Friendly"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which tense is used to describe an action that will happen in the future?",
+                "options": ["Past tense", "Present tense", "Future tense", "Continuous tense"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a word that sounds like the noise it represents, such as 'buzz' or 'meow'?",
+                "options": ["Onomatopoeia", "Palindrome", "Metaphor", "Simile"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which punctuation mark is used to indicate a question?",
+                "options": [". (Period)", ", (Comma)", "! (Exclamation mark)", "? (Question mark)"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a word or phrase that connects words, phrases, or clauses within a sentence?",
+                "options": ["Adverb", "Preposition", "Conjunction", "Interjection"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the study of the origin and history of words called?",
+                "options": ["Grammar", "Syntax", "Etymology", "Linguistics"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which of the following words is an example of a conjunction?",
+                "options": ["Fast", "And", "Happy", "Jump"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a figure of speech that makes a direct comparison between two unrelated things, using 'like' or 'as'?",
+                "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a word or phrase that is used to represent something else, often an abstract concept?",
+                "options": ["Synonym", "Metaphor", "Symbol", "Homonym"],
+                "correctOption": 2,
+                "points": 10
+              }
+        ]
+      },
+      {
+        "id": "accounting",
+        "name": "Accounting",
+        "question": [
+            {
+                "question": "What is the primary purpose of financial accounting?",
+                "options": ["Tax planning", "Internal decision-making", "External reporting", "Budgeting"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the fundamental accounting equation?",
+                "options": ["Assets = Liabilities + Owner's Equity", "Revenue = Expenses", "Income = Expenditure", "Debit = Credit"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a financial statement that shows a company's financial position at a specific point in time?",
+                "options": ["Income statement", "Cash flow statement", "Balance sheet", "Trial balance"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which accounting method records revenue when it is earned and expenses when they are incurred?",
+                "options": ["Cash basis accounting", "Accrual basis accounting", "Cost accounting", "Double-entry accounting"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a record of all the accounts maintained by a company?",
+                "options": ["General ledger", "Trial balance", "Income statement", "Cash flow statement"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which financial statement reports a company's revenues and expenses over a specific period?",
+                "options": ["Balance sheet", "Statement of cash flows", "Income statement", "Trial balance"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the process of examining and verifying a company's financial statements and supporting documents called?",
+                "options": ["Financial analysis", "Auditing", "Budgeting", "Tax planning"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which accounting principle requires that revenue be recognized when it is earned, not when cash is received?",
+                "options": ["Matching principle", "Revenue recognition principle", "Consistency principle", "Materiality principle"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a decrease in the value of an asset over time?",
+                "options": ["Amortization", "Depreciation", "Appreciation", "Accretion"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which financial statement shows a company's cash inflows and outflows during a specific period?",
+                "options": ["Income statement", "Balance sheet", "Statement of cash flows", "Trial balance"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the term for the systematic allocation of the cost of an intangible asset over its useful life?",
+                "options": ["Depreciation", "Amortization", "Accretion", "Appreciation"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which accounting method records transactions twice, once as a debit and once as a credit?",
+                "options": ["Cash basis accounting", "Accrual basis accounting", "Double-entry accounting", "Cost accounting"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a financial statement that summarizes a company's cash transactions?",
+                "options": ["Income statement", "Balance sheet", "Statement of cash flows", "Trial balance"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which financial statement shows a company's financial performance over a specific period?",
+                "options": ["Income statement", "Balance sheet", "Statement of cash flows", "Trial balance"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a temporary account used to track income and expenses during an accounting period?",
+                "options": ["Asset account", "Liability account", "Equity account", "Nominal account"],
+                "correctOption": 3,
+                "points": 10
+              }
+        ]
+      },
+      {
+        "id": "comparative_religion_studies",
+        "name": "Comparative Religion Studies",
+        "question": [
+            {
+                "question": "What is the term for the religious belief in one God?",
+                "options": ["Polytheism", "Monotheism", "Atheism", "Pantheism"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Who is the founder of Buddhism?",
+                "options": ["Jesus Christ", "Muhammad", "Siddhartha Gautama", "Moses"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which holy book is central to the religion of Islam?",
+                "options": ["Torah", "Bhagavad Gita", "Quran", "Bible"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the sacred text of Hinduism?",
+                "options": ["Quran", "Bible", "Vedas", "Tripitaka"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Who is considered the central prophet of Islam?",
+                "options": ["Moses", "Buddha", "Jesus Christ", "Muhammad"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "What is the term for the concept of the cycle of birth, death, and rebirth in Hinduism?",
+                "options": ["Karma", "Nirvana", "Samsara", "Dharma"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which religious text serves as the foundation for Christianity?",
+                "options": ["Quran", "Bible", "Tripitaka", "Vedas"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "In which religion is the Eightfold Path a central ethical guideline?",
+                "options": ["Judaism", "Christianity", "Buddhism", "Islam"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Which religion is known for its belief in non-violence and ahimsa?",
+                "options": ["Jainism", "Sikhism", "Zoroastrianism", "Shinto"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Who is the central figure in Christianity, believed to be the Son of God?",
+                "options": ["Moses", "Abraham", "Jesus Christ", "Muhammad"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the term for the Jewish day of rest and worship?",
+                "options": ["Eid al-Fitr", "Sabbath", "Diwali", "Passover"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which religion has the Five Pillars of Islam as its central tenets?",
+                "options": ["Hinduism", "Judaism", "Christianity", "Islam"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "Who is the founder of Sikhism?",
+                "options": ["Guru Nanak", "Guru Gobind Singh", "Guru Arjan", "Guru Tegh Bahadur"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which religion believes in the principle of the Golden Rule, 'Do unto others as you would have them do unto you'?",
+                "options": ["Buddhism", "Islam", "Christianity", "Sikhism"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "In which religion is the concept of Nirvana or liberation from suffering a central goal?",
+                "options": ["Jainism", "Buddhism", "Zoroastrianism", "Shinto"],
+                "correctOption": 1,
+                "points": 10
+              }
+        ]
+      },
+      {
+        "id": "science_and_technology",
+        "name": "Science and Technology",
+        "question": [
+            {
+                "question": "What is the chemical symbol for the element oxygen?",
+                "options": ["O2", "O", "Ox", "Oi"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Who is often called the 'father of modern physics'?",
+                "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What does CPU stand for in computing?",
+                "options": ["Central Process Unit", "Central Power Unit", "Computer Programming Unit", "Central Processing Unit"],
+                "correctOption": 3,
+                "points": 10
+              },
+              {
+                "question": "Which planet in our solar system is known as the 'Red Planet'?",
+                "options": ["Earth", "Mars", "Venus", "Jupiter"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Who is the co-founder of Microsoft Corporation?",
+                "options": ["Steve Jobs", "Mark Zuckerberg", "Bill Gates", "Elon Musk"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the smallest unit of digital information?",
+                "options": ["Byte", "Bit", "Megabyte", "Kilobyte"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the chemical symbol for the element gold?",
+                "options": ["Go", "Au", "Gd", "Gl"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "Which scientist is famous for his theory of relativity?",
+                "options": ["Stephen Hawking", "Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What does HTML stand for in web development?",
+                "options": ["Hypertext Markup Language", "Hyper Transfer Markup Language", "High Tech Markup Language", "Hyperspace Text Markup Language"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which gas is the most abundant in Earth's atmosphere?",
+                "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "Who is known as the 'father of the computer'?",
+                "options": ["Alan Turing", "Charles Babbage", "Steve Jobs", "Mark Zuckerberg"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the largest mammal on Earth?",
+                "options": ["African elephant", "Blue whale", "Giraffe", "Hippopotamus"],
+                "correctOption": 1,
+                "points": 10
+              },
+              {
+                "question": "What is the chemical symbol for the element silicon?",
+                "options": ["Si", "Sil", "Sl", "So"],
+                "correctOption": 0,
+                "points": 10
+              },
+              {
+                "question": "Which technology company is known for its search engine and advertising platform?",
+                "options": ["Facebook", "Amazon", "Google", "Microsoft"],
+                "correctOption": 2,
+                "points": 10
+              },
+              {
+                "question": "What is the term for a self-replicating program that spreads malicious code?",
+                "options": ["Virus", "Trojan horse", "Malware", "Spyware"],
+                "correctOption": 0,
+                "points": 10
+              }
+        ]
+      }
+    ]
+  }
+  

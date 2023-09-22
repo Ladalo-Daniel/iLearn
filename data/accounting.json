@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "What is the primary purpose of financial accounting?",
+        "options": ["Tax planning", "Internal decision-making", "External reporting", "Budgeting"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the fundamental accounting equation?",
+        "options": ["Assets = Liabilities + Owner's Equity", "Revenue = Expenses", "Income = Expenditure", "Debit = Credit"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a financial statement that shows a company's financial position at a specific point in time?",
+        "options": ["Income statement", "Cash flow statement", "Balance sheet", "Trial balance"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which accounting method records revenue when it is earned and expenses when they are incurred?",
+        "options": ["Cash basis accounting", "Accrual basis accounting", "Cost accounting", "Double-entry accounting"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a record of all the accounts maintained by a company?",
+        "options": ["General ledger", "Trial balance", "Income statement", "Cash flow statement"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which financial statement reports a company's revenues and expenses over a specific period?",
+        "options": ["Balance sheet", "Statement of cash flows", "Income statement", "Trial balance"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the process of examining and verifying a company's financial statements and supporting documents called?",
+        "options": ["Financial analysis", "Auditing", "Budgeting", "Tax planning"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which accounting principle requires that revenue be recognized when it is earned, not when cash is received?",
+        "options": ["Matching principle", "Revenue recognition principle", "Consistency principle", "Materiality principle"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a decrease in the value of an asset over time?",
+        "options": ["Amortization", "Depreciation", "Appreciation", "Accretion"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which financial statement shows a company's cash inflows and outflows during a specific period?",
+        "options": ["Income statement", "Balance sheet", "Statement of cash flows", "Trial balance"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the term for the systematic allocation of the cost of an intangible asset over its useful life?",
+        "options": ["Depreciation", "Amortization", "Accretion", "Appreciation"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which accounting method records transactions twice, once as a debit and once as a credit?",
+        "options": ["Cash basis accounting", "Accrual basis accounting", "Double-entry accounting", "Cost accounting"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a financial statement that summarizes a company's cash transactions?",
+        "options": ["Income statement", "Balance sheet", "Statement of cash flows", "Trial balance"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which financial statement shows a company's financial performance over a specific period?",
+        "options": ["Income statement", "Balance sheet", "Statement of cash flows", "Trial balance"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a temporary account used to track income and expenses during an accounting period?",
+        "options": ["Asset account", "Liability account", "Equity account", "Nominal account"],
+        "correctOption": 3,
+        "points": 10
+      }
+    ]
+  }
+  

@@ -1,0 +1,169 @@
+{
+    "questions": [
+        {
+            "question": "What does HTML stand for?",
+            "options": [
+                "Hyperlink Text Markup Language",
+                "Hyper Transfer Markup Language",
+                "Hyper Text Markup Language",
+                "Hyper Tool Markup Language"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which HTML element is used to create a hyperlink?",
+            "options": [
+                "<link>",
+                "<a>",
+                "<href>",
+                "<url>"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which HTML tag is used to define an ordered (numbered) list?",
+            "options": [
+                "<ul>",
+                "<li>",
+                "<ol>",
+                "<dl>"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "What is the correct HTML element for inserting a line break?",
+            "options": [
+                "<br>",
+                "<lb>",
+                "<break>",
+                "<newline>"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which HTML tag is used to define the header for a document or section?",
+            "options": [
+                "<head>",
+                "<header>",
+                "<h1>",
+                "<title>"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which HTML attribute is used to specify the URL of the image to be displayed?",
+            "options": [
+                "src",
+                "href",
+                "img",
+                "link"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What does HTML5 introduce to replace the <div> element for grouping content?",
+            "options": [
+                "<section>",
+                "<group>",
+                "<container>",
+                "<block>"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which HTML element is used to define the structure of an HTML document, including headings, paragraphs, and lists?",
+            "options": [
+                "<body>",
+                "<article>",
+                "<main>",
+                "<section>"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What is the purpose of the HTML <meta> element?",
+            "options": [
+                "To define metadata about the document",
+                "To create a new webpage",
+                "To insert a meta tag",
+                "To define the document's title"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which HTML tag is used to create an external JavaScript file?",
+            "options": [
+                "<script>",
+                "<js>",
+                "<javascript>",
+                "<external>"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What is the correct HTML element for inserting a horizontal rule (line)?",
+            "options": [
+                "<line>",
+                "<hr>",
+                "<rule>",
+                "<horizontal>"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which HTML element is used to define a table row?",
+            "options": [
+                "<table>",
+                "<row>",
+                "<tr>",
+                "<td>"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "What does the HTML <iframe> element allow you to do?",
+            "options": [
+                "Embed another webpage within the current webpage",
+                "Create an image gallery",
+                "Insert an audio file",
+                "Add a video player"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What is the purpose of the HTML <form> element?",
+            "options": [
+                "To create a list",
+                "To define a table",
+                "To create a form for user input",
+                "To display images"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which HTML tag is used to define a line or paragraph that is centered on the webpage?",
+            "options": [
+                "<center>",
+                "<middle>",
+                "<middleline>",
+                "<central>"
+            ],
+            "correctOption": 0,
+            "points": 10
+        }
+    ]
+}

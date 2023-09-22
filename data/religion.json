@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "What is the term for the religious belief in one God?",
+        "options": ["Polytheism", "Monotheism", "Atheism", "Pantheism"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Who is the founder of Buddhism?",
+        "options": ["Jesus Christ", "Muhammad", "Siddhartha Gautama", "Moses"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which holy book is central to the religion of Islam?",
+        "options": ["Torah", "Bhagavad Gita", "Quran", "Bible"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the sacred text of Hinduism?",
+        "options": ["Quran", "Bible", "Vedas", "Tripitaka"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Who is considered the central prophet of Islam?",
+        "options": ["Moses", "Buddha", "Jesus Christ", "Muhammad"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "What is the term for the concept of the cycle of birth, death, and rebirth in Hinduism?",
+        "options": ["Karma", "Nirvana", "Samsara", "Dharma"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which religious text serves as the foundation for Christianity?",
+        "options": ["Quran", "Bible", "Tripitaka", "Vedas"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "In which religion is the Eightfold Path a central ethical guideline?",
+        "options": ["Judaism", "Christianity", "Buddhism", "Islam"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which religion is known for its belief in non-violence and ahimsa?",
+        "options": ["Jainism", "Sikhism", "Zoroastrianism", "Shinto"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Who is the central figure in Christianity, believed to be the Son of God?",
+        "options": ["Moses", "Abraham", "Jesus Christ", "Muhammad"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the term for the Jewish day of rest and worship?",
+        "options": ["Eid al-Fitr", "Sabbath", "Diwali", "Passover"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which religion has the Five Pillars of Islam as its central tenets?",
+        "options": ["Hinduism", "Judaism", "Christianity", "Islam"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Who is the founder of Sikhism?",
+        "options": ["Guru Nanak", "Guru Gobind Singh", "Guru Arjan", "Guru Tegh Bahadur"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which religion believes in the principle of the Golden Rule, 'Do unto others as you would have them do unto you'?",
+        "options": ["Buddhism", "Islam", "Christianity", "Sikhism"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "In which religion is the concept of Nirvana or liberation from suffering a central goal?",
+        "options": ["Jainism", "Buddhism", "Zoroastrianism", "Shinto"],
+        "correctOption": 1,
+        "points": 10
+      }
+    ]
+  }
+  

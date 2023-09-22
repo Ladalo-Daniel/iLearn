@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "What is the term for a word that is the opposite in meaning to another word?",
+        "options": ["Synonym", "Homonym", "Antonym", "Palindrome"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the correct plural form of 'child'?",
+        "options": ["Children", "Childs", "Childes", "Childen"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which part of speech is used to describe a person, place, or thing?",
+        "options": ["Verb", "Adjective", "Adverb", "Noun"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the past tense of the verb 'go'?",
+        "options": ["Went", "Gone", "Goed", "Going"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a group of words that expresses a complete thought and can stand alone as a sentence?",
+        "options": ["Clause", "Phrase", "Fragment", "Sentence"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Which of the following is a pronoun?",
+        "options": ["Run", "Table", "She", "Quickly"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the opposite of the word 'brave'?",
+        "options": ["Kind", "Cowardly", "Strong", "Friendly"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which tense is used to describe an action that will happen in the future?",
+        "options": ["Past tense", "Present tense", "Future tense", "Continuous tense"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a word that sounds like the noise it represents, such as 'buzz' or 'meow'?",
+        "options": ["Onomatopoeia", "Palindrome", "Metaphor", "Simile"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which punctuation mark is used to indicate a question?",
+        "options": [". (Period)", ", (Comma)", "! (Exclamation mark)", "? (Question mark)"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a word or phrase that connects words, phrases, or clauses within a sentence?",
+        "options": ["Adverb", "Preposition", "Conjunction", "Interjection"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the study of the origin and history of words called?",
+        "options": ["Grammar", "Syntax", "Etymology", "Linguistics"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which of the following words is an example of a conjunction?",
+        "options": ["Fast", "And", "Happy", "Jump"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a figure of speech that makes a direct comparison between two unrelated things, using 'like' or 'as'?",
+        "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a word or phrase that is used to represent something else, often an abstract concept?",
+        "options": ["Synonym", "Metaphor", "Symbol", "Homonym"],
+        "correctOption": 2,
+        "points": 10
+      }
+    ]
+  }
+  

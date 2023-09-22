@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10rem;
+    width: 60vw;
+    height: 80vh;
+    background-color: rgb(237, 242, 246);
+    border-radius: 5px;
+    margin-bottom: 4rem;
+
+}
+
+.main > p ,h4 {
+    text-align: center;
+}
+
+
+@media screen and (max-width: 900px) {
+    .main{
+        width: 90vw;
+    }
+}

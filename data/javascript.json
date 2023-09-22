@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "What does JavaScript(JS) stand for?",
+        "options": ["Java Source", "JavaScript", "JustScript", "JavaSyntax"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which keyword is used to declare a variable in JavaScript?",
+        "options": ["var", "int", "variable", "declare"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the correct way to write a comment in JavaScript?",
+        "options": ["//This is a comment", "<!--This is a comment-->", "/*This is a comment*/", "##This is a comment##"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which function is used to display a message in a popup dialog box in JavaScript?",
+        "options": ["alert()", "popup()", "message()", "display()"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "How do you declare a function in JavaScript?",
+        "options": ["function myFunction()", "myFunction = function()", "declare function myFunction()", "func myFunction()"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the result of '2' + 2 in JavaScript?",
+        "options": ["'22'", "4", "22", "NaN"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the correct way to select an HTML element by its ID in JavaScript?",
+        "options": ["#myElement", "$('myElement')", "getElementById('myElement')", ".myElement"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which operator is used to compare two values for equality in JavaScript?",
+        "options": ["==", "===", "=", "!"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "How do you add a comment in a JavaScript object?",
+        "options": ["// This is a comment", "/* This is a comment */", "# This is a comment", "Comment: This is a comment"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which JavaScript method is used to remove the last item from an array?",
+        "options": ["pop()", "removeLast()", "delete()", "splice()"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which built-in object is used for mathematical operations in JavaScript?",
+        "options": ["Math", "Calc", "Numbers", "Calculations"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the purpose of the JavaScript 'setTimeout' function?",
+        "options": ["To set the date and time", "To execute a function after a specified time delay", "To display a message box", "To stop the execution of a script"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which JavaScript method is used to add a new element to the end of an array?",
+        "options": ["append()", "push()", "addElement()", "insertLast()"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What does the 'typeof' operator in JavaScript return for a variable that is not defined?",
+        "options": ["null", "undefined", "string", "NaN"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which JavaScript statement is used to exit a loop early?",
+        "options": ["break", "stop", "exit", "end"],
+        "correctOption": 0,
+        "points": 10
+      }
+    ]
+  }
+  

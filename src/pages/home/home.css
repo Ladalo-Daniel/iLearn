@@ -1,0 +1,11 @@
+.homeWrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10rem;
+    height: fit-content;
+    margin-bottom: 5rem;
+
+    
+}
+

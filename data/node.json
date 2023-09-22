@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "What is Node.js?",
+        "options": ["A database management system", "A front-end JavaScript framework", "A back-end JavaScript runtime", "A cloud computing service"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which programming language is commonly used with Node.js for server-side development?",
+        "options": ["Java", "Python", "JavaScript", "C++"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the core module in Node.js for handling file operations?",
+        "options": ["fs", "file", "io", "stream"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which package manager is commonly used with Node.js to manage dependencies?",
+        "options": ["NPM", "Yarn", "Bower", "Pip"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the purpose of the 'require' function in Node.js?",
+        "options": ["To include external JavaScript files", "To define a new variable", "To install Node.js modules", "To create a web server"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which Node.js module is used for building web servers?",
+        "options": ["http", "webserver", "server", "net"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the event-driven programming paradigm in Node.js based on?",
+        "options": ["Callbacks", "Promises", "Synchronous programming", "Object-oriented programming"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which module in Node.js is used for working with URL strings?",
+        "options": ["url", "web", "link", "uri"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the purpose of the 'process' object in Node.js?",
+        "options": ["To manage file processes", "To handle HTTP requests", "To interact with the operating system", "To create child processes"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which module is commonly used for real-time, bidirectional communication in Node.js?",
+        "options": ["websocket", "http", "tcp", "socket.io"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "What is the purpose of the 'Buffer' class in Node.js?",
+        "options": ["To perform mathematical operations", "To handle file I/O operations", "To work with binary data", "To format strings"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which Node.js module is used for managing child processes?",
+        "options": ["child", "processes", "child_process", "task"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the role of the 'npm' command in Node.js?",
+        "options": ["To run Node.js applications", "To install Node.js", "To manage Node.js packages", "To create a new Node.js project"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which module is used for handling asynchronous operations in a more readable way in Node.js?",
+        "options": ["async", "await", "promise", "callback"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the default port number for HTTP in Node.js?",
+        "options": ["80", "8080", "3000", "5000"],
+        "correctOption": 0,
+        "points": 10
+      }
+    ]
+  }
+  

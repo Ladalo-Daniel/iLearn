@@ -1,0 +1,24 @@
+.quizWrapper{
+    display: flex;
+    margin-top: 7rem;
+    justify-content: center;
+    margin-top: 0.5rem;
+
+    
+}
+
+/* .quiz{
+    display: flex;
+    justify-content: cente;
+    flex-direction: column;
+    height: 50vh;
+    width: 60vw;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 5px;
+
+}
+
+.quiz > p ,h4 {
+    text-align: center;
+} */

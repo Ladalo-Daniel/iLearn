@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "What is the binary number system based on?",
+        "options": ["Base 2", "Base 10", "Base 16", "Base 8"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which programming language is known as a 'low-level' programming language?",
+        "options": ["Python", "Java", "C++", "Assembly"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "What is the primary function of an operating system?",
+        "options": ["Running applications", "Managing hardware resources", "Creating graphics", "Browsing the web"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which data structure follows the 'Last In, First Out' (LIFO) principle?",
+        "options": ["Queue", "Stack", "Linked List", "Array"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What does HTTP stand for in web technology?",
+        "options": ["Hyper Transfer Text Protocol", "Hypertext Transfer Protocol", "High-Tech Transfer Protocol", "Hyperlink Text Transmission Protocol"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "In computer science, what does 'CPU' stand for?",
+        "options": ["Central Processing Unit", "Computer Personal Unit", "Control Program Unit", "Central Program Unit"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the primary function of a compiler?",
+        "options": ["Run programs", "Manage memory", "Translate code into machine language", "Display graphical user interfaces"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a program that replicates itself and spreads to other computers or systems?",
+        "options": ["Spyware", "Malware", "Virus", "Firewall"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the time complexity of a binary search algorithm?",
+        "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which of the following is not a programming paradigm?",
+        "options": ["Object-Oriented Programming", "Functional Programming", "Relational Programming", "Imperative Programming"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a network of interconnected computers that share resources and information?",
+        "options": ["Intranet", "Internet", "Ethernet", "Extranet"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What does SQL stand for in database management?",
+        "options": ["Structured Query Language", "Sequential Query Language", "Simple Query Language", "System Query Language"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which data structure is used to represent hierarchical relationships in computer science?",
+        "options": ["Stack", "Queue", "Tree", "Graph"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a small piece of code that performs a specific task and can be reused in various parts of a program?",
+        "options": ["Function", "Procedure", "Method", "Algorithm"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the fundamental unit of information in computing?",
+        "options": ["Byte", "Bit", "Nibble", "Kilobyte"],
+        "correctOption": 1,
+        "points": 10
+      }
+    ]
+  }
+  

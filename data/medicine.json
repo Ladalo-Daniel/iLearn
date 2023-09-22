@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Heart", "Brain", "Liver", "Skin"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Which gas do humans primarily exhale during respiration?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the medical term for the voice box?",
+        "options": ["Larynx", "Esophagus", "Pharynx", "Trachea"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which vitamin is produced by the skin when exposed to sunlight?",
+        "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "What is the main function of the pancreas in the human body?",
+        "options": ["Digestion of food", "Pumping blood", "Filtering waste", "Regulating blood sugar"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Which part of the eye controls the amount of light entering the eye?",
+        "options": ["Cornea", "Pupil", "Retina", "Iris"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the medical term for high blood pressure?",
+        "options": ["Hypotension", "Hypertension", "Hyperglycemia", "Hyperthyroidism"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which organ produces insulin in the human body?",
+        "options": ["Pancreas", "Liver", "Kidneys", "Heart"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the name of the tube that connects the mouth to the stomach?",
+        "options": ["Esophagus", "Trachea", "Bronchus", "Pharynx"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which disease is caused by a deficiency of vitamin C?",
+        "options": ["Malaria", "Scurvy", "Tuberculosis", "Diabetes"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which type of blood cells are responsible for oxygen transport in the body?",
+        "options": ["Platelets", "White blood cells", "Red blood cells", "Plasma"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the surgical procedure to remove the appendix called?",
+        "options": ["Appendectomy", "Colonoscopy", "Gallbladder removal", "Tonsillectomy"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which hormone is responsible for regulating blood sugar levels?",
+        "options": ["Insulin", "Testosterone", "Estrogen", "Adrenaline"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the medical term for inflammation of the joints?",
+        "options": ["Arthritis", "Bronchitis", "Hepatitis", "Appendicitis"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the largest bone in the human body?",
+        "options": ["Femur", "Tibia", "Radius", "Humerus"],
+        "correctOption": 0,
+        "points": 10
+      }
+    ]
+  }
+  

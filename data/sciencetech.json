@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "What is the chemical symbol for the element oxygen?",
+        "options": ["O2", "O", "Ox", "Oi"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Who is often called the 'father of modern physics'?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What does CPU stand for in computing?",
+        "options": ["Central Process Unit", "Central Power Unit", "Computer Programming Unit", "Central Processing Unit"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Which planet in our solar system is known as the 'Red Planet'?",
+        "options": ["Earth", "Mars", "Venus", "Jupiter"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Who is the co-founder of Microsoft Corporation?",
+        "options": ["Steve Jobs", "Mark Zuckerberg", "Bill Gates", "Elon Musk"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the smallest unit of digital information?",
+        "options": ["Byte", "Bit", "Megabyte", "Kilobyte"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the chemical symbol for the element gold?",
+        "options": ["Go", "Au", "Gd", "Gl"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which scientist is famous for his theory of relativity?",
+        "options": ["Stephen Hawking", "Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What does HTML stand for in web development?",
+        "options": ["Hypertext Markup Language", "Hyper Transfer Markup Language", "High Tech Markup Language", "Hyperspace Text Markup Language"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which gas is the most abundant in Earth's atmosphere?",
+        "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Who is known as the 'father of the computer'?",
+        "options": ["Alan Turing", "Charles Babbage", "Steve Jobs", "Mark Zuckerberg"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the largest mammal on Earth?",
+        "options": ["African elephant", "Blue whale", "Giraffe", "Hippopotamus"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the chemical symbol for the element silicon?",
+        "options": ["Si", "Sil", "Sl", "So"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which technology company is known for its search engine and advertising platform?",
+        "options": ["Facebook", "Amazon", "Google", "Microsoft"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the term for a self-replicating program that spreads malicious code?",
+        "options": ["Virus", "Trojan horse", "Malware", "Spyware"],
+        "correctOption": 0,
+        "points": 10
+      }
+    ]
+  }
+  
