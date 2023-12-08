@@ -33,7 +33,7 @@ const initialState = {
     case "dataReceived":
       return {
         ...state,
-        question: action.payload[1].question,
+        question: Array.isArray(action.payload) ? action.payload : [], 
         status: "ready",
       };
 
@@ -41,6 +41,7 @@ const initialState = {
       return {
         ...state,
         status: "error",
+        question: [],
       };
 
     case "start":
@@ -107,21 +108,21 @@ export default function Quiz() {
   //destructure question and status state to make life easy
   const [{ question ,status, index, answer, points, highscore, secondsRemaining}, dispatch] = useReducer(reducer, initialState)
 
-  const numQuestions = question.length;
-  const maxPossiblePoints = question.reduce((prev, cur) => prev + cur.points, 0)
+  const numQuestions = question?.length;
+  const maxPossiblePoints = question?.reduce((prev, cur) => prev + cur.points, 0)
 
-  // useEffect(() => {
-  //   fetch("http://localhost:8000/questions")
-  //   .then(res => res.json())
-  //   .then(data => dispatch({type: "dataReceived", payload: data}))
-  //   .catch(err => dispatch({type: "dataFailed"}))
-  // }, [])
-
-  useEffect(()=>{
-    fetch("http://localhost:5000/courses")
+  useEffect(() => {
+    fetch("http://localhost:8000/questions")
     .then(res => res.json())
     .then(data => dispatch({type: "dataReceived", payload: data}))
+    .catch(err => dispatch({type: "dataFailed"}))
   }, [])
+
+  // useEffect(()=>{
+  //   fetch("http://localhost:5000/courses")
+  //   .then(res => res.json())
+  //   .then(data => dispatch({type: "dataReceived", payload: data}))
+  // }, [])
 
   // console.log(courses)
 
